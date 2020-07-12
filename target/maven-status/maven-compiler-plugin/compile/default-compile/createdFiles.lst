@@ -1,3 +1,4 @@
-matrix_multiplication/Map.class
 matrix_multiplication/MatrixMultiplication.class
 matrix_multiplication/Reduce.class
+matrix_multiplication/MapA.class
+matrix_multiplication/MapB.class
